@@ -1,0 +1,5 @@
+- nested folder/sample.txt:
+  - check: MatchFileFragment
+    options:
+      count: 1
+      fragment: expected content

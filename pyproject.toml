@@ -1,0 +1,9 @@
+[project]
+name = "issue-226-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gatorgrade>=0.12.1",
+]
